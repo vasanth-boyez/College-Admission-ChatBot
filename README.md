@@ -183,4 +183,3 @@ I would like to extend my gratitude to myself for the dedication and effort put 
 [**Return**](#-quick-links)
 
 ---
-This markdown file is formatted according to the structure you requested, with relevant sections filled in based on the College Admission ChatBot project details. Let me know if you need any further adjustments!
